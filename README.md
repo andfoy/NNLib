@@ -1,4 +1,4 @@
 NNLib
 =====
 
-Machine Learning library written in python
+Machine Learning library written in Python
